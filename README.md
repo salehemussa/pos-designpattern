@@ -43,5 +43,5 @@ A simple **Point of Sale (POS) system** built with **Laravel**, demonstrating en
 Clone the repository:
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
+git clone https://github.com/salehemussa/pos-designpattern.git
 cd <REPO>
