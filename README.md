@@ -8,14 +8,8 @@ A simple **Point of Sale (POS) system** built with **Laravel**, demonstrating en
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Environment Setup](#environment-setup)
-- [Database Migration & Seeding](#database-migration--seeding)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Project Structure](#project-structure)
 - [Design Patterns Applied](#design-patterns-applied)
 - [Testing with Postman](#testing-with-postman)
-- [License](#license)
 
 ---
 
